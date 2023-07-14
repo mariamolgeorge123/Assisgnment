@@ -6,5 +6,6 @@ public class NewClass {
         System.out.println("haihahskajksjaslk");
         int x=2;int y=10;
         System.out.println(x+y);
+        System.out.println("hai");
     }
 }
