@@ -4,5 +4,7 @@ public class NewClass {
         System.out.println("haijhhas");
         System.out.println("haiasmnas");
         System.out.println("haihahskajksjaslk");
+        int x=2;int y=10;
+        System.out.println(x+y);
     }
 }
