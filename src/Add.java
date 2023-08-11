@@ -3,5 +3,6 @@ public class Add {
         int x=10;
         int y=20;
         System.out.println("Result is"+(x+y));
+         System.out.println("Add new changes");
     }
 }
